@@ -12,7 +12,7 @@
     "dependencies": {
         "bcrypt": ">=3.0.2",
         "express": ">=4.16.4",
-        "express-fileupload": ">=1.1.1-alpha.3",
+        "express-fileupload": ">=1.1.9",
         "google-auth-library": ">=2.0.2",
         "jsonwebtoken": ">=8.4.0",
         "mongoose": ">=5.4.0",
